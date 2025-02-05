@@ -1,4 +1,4 @@
 # first-repo1
 this is first repository. 
 <br>
-auther - Tushar
+auther - Tushar kale 
